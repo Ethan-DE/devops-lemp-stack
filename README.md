@@ -1,6 +1,6 @@
 # DevOps: Automated LEMP Stack Deployment with WordPress
 
-This project automates the deployment of a secure LEMP stack (Linux, NGINX, MySQL, PHP) and WordPress on an Ubuntu server. It includes Bash scripts to install, configure, and secure the stack — designed for production environments and DevOps workflows.
+This project automates the deployment of a secure LEMP stack (Linux, NGINX, MySQL, PHP) and WordPress on an Ubuntu server. It includes Bash scripts to install, configure, and secure the stack, designed for production environments and DevOps workflows.
 
 ## What's Included
 
